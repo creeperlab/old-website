@@ -4,19 +4,11 @@
 
 **Explore a world of Minecraft possibilities**
 
-CreeperLAB is your destination for all things Minecraft projects. We offer a wide range of resources to help you create unique and memorable gaming experiences.
+SOON
 
-**What you'll find on CreeperLAB:**
-* **A lot of things:** There is a huge variety of things i am working on so i may need a hand heh...unfortunately i cannot pay anyone (cuz i dont get money too) its a completely free project without incomes
-
-**Our mission:**
-We believe Minecraft is more than just a game; it's a powerful tool for learning and self-expression.
-
-**How to contribute:**
-Want to be part of our community? Help create new resources, fix bugs, or simply share your creations for Creepercraft and other projects. Contact us at [this email here](mailto:hello@creeperhub.net)
 
 **Join our community:**
-* **Website:** [CreeperLAB.org](https://creeperlab.org)
+* **Temp Website:** [CreeperLAB.org](https://creeperlab.org)
 * **Twitter:** [@CreeperLAB_](https://x.com/creeperlab_)
 * **Discord:** [CreeperHUB Discord](https://creeperlab.org/discord)
 
