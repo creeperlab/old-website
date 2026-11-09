@@ -8,8 +8,8 @@ SOON
 
 
 **Join our community:**
-* **Temp Website:** [CreeperLAB.org](https://creeperlab.org)
+* **Temp Website:** [CreeperLAB.org](https://old.lab.creepercraft.net)
 * **Twitter:** [@CreeperLAB_](https://x.com/creeperlab_)
-* **Discord:** [CreeperHUB Discord](https://creeperlab.org/discord)
+* **Discord:** [CreeperHUB Discord](https://tinyy.dev/discord)
 
 **#Minecraft #CreeperLAB #Modding #Tutorials #Maps**
